@@ -1,0 +1,14 @@
+{
+    "Weapon": {
+        "InvincibleTime": 60,
+        "attackDamageLevel1": 5.0,
+        "attackDamageLevel2": 10.0,
+        "attackDamageLevel3": 20.0,
+        "attackDamageNormal": 1.0,
+        "attackSpeedLevel1": 0.08,
+        "attackSpeedLevel2": 0.25,
+        "attackSpeedLevel3": 0.5,
+        "attackSpeedNormal": 0.03,
+        "chargeSpeed": 0.048
+    }
+}
